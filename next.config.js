@@ -21,6 +21,11 @@ module.exports = {
                 source: '/resend',
                 destination: 'https://resend-uploadthing-attachments.vercel.app/',
                 permanent: true,
+            },
+            {
+                source: '/suggest',
+                destination: 'https://suggest.gg/joshcirre',
+                permanent: true,
             }
 		];
 	},
