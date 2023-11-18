@@ -26,6 +26,11 @@ module.exports = {
                 source: '/suggest',
                 destination: 'https://suggest.gg/joshcirre',
                 permanent: true,
+            },
+            {
+                source: '/laravel',
+                destination: 'https://www.youtube.com/watch?v=iSS_9PHrQg0',
+                permanent: true,
             }
 		];
 	},
