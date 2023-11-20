@@ -31,6 +31,11 @@ module.exports = {
                 source: '/laravel',
                 destination: 'https://www.youtube.com/watch?v=iSS_9PHrQg0',
                 permanent: true,
+            },
+            {
+                source: 'jiffyforjobs',
+                destination: 'https://www.youtube.com/watch?v=HLXrOD7SAKE',
+                permanent: true,
             }
 		];
 	},
