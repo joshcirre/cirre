@@ -33,12 +33,12 @@ module.exports = {
                 permanent: true,
             },
             {
-                source: 'jiffyforjobs',
+                source: '/jiffyforjobs',
                 destination: 'https://www.youtube.com/watch?v=HLXrOD7SAKE',
                 permanent: true,
             },
             {
-                source: 'live',
+                source: '/live',
                 destination: 'https://twitch.tv/joshcirre',
                 permanent: true,
             }
