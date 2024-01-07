@@ -33,6 +33,11 @@ module.exports = {
                 permanent: true,
             },
             {
+                source: '/yt',
+                destination: 'https://www.youtube.com/@joshcirre',
+                permanent: true,
+            },
+            {
                 source: '/jiffyforjobs',
                 destination: 'https://www.youtube.com/watch?v=HLXrOD7SAKE',
                 permanent: true,
