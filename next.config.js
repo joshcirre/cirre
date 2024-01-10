@@ -43,7 +43,7 @@ module.exports = {
                 permanent: true,
             },
             {
-                source: '/live',
+                source: '/twitch',
                 destination: 'https://twitch.tv/joshcirre',
                 permanent: true,
             },
