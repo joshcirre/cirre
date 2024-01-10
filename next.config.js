@@ -46,6 +46,11 @@ module.exports = {
                 source: '/live',
                 destination: 'https://twitch.tv/joshcirre',
                 permanent: true,
+            },
+            {
+                source: '/live',
+                destination: 'https://twitch.tv/joshcirre',
+                permanent: true,
             }
         ];
     },
