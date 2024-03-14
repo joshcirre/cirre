@@ -51,6 +51,11 @@ module.exports = {
                 source: '/live',
                 destination: 'https://twitch.tv/joshcirre',
                 permanent: true,
+            },
+            {
+                source: '/mongodb',
+                destination: 'https://drive.google.com/file/d/1_2hvII5NaYUkAw-PM4jsk1LaulvpICef/view?usp=sharing',
+                permanent: true,
             }
         ];
     },
