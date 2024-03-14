@@ -56,6 +56,11 @@ module.exports = {
                 source: '/mongodb',
                 destination: 'https://drive.google.com/file/d/1_2hvII5NaYUkAw-PM4jsk1LaulvpICef/view?usp=sharing',
                 permanent: true,
+            },
+            {
+                source: '/hellomongodb',
+                destination: 'https://www.youtube.com/watch?v=1TDHwFkGRl8',
+                permanent: true,
             }
         ];
     },
