@@ -61,7 +61,17 @@ module.exports = {
                 source: '/hellomongodb',
                 destination: 'https://www.youtube.com/watch?v=1TDHwFkGRl8',
                 permanent: true,
-            }
+            },
+            {
+                source:'/highlight',
+                destination: 'https://drive.google.com/file/d/1_2hvII5NaYUkAw-PM4jsk1LaulvpICef/view?usp=sharing',
+                permanent: true,
+            },
+            {
+                source: '/hellohighlight',
+                destination: 'https://www.youtube.com/watch?v=048GxlHPbjk',
+                permanent: true,
+            },
         ];
     },
 };
