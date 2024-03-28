@@ -72,6 +72,11 @@ module.exports = {
                 destination: 'https://www.youtube.com/watch?v=048GxlHPbjk',
                 permanent: true,
             },
+            {
+                source: '/bet',
+                destination: 'https://beton.joshcirre.com',
+                permanent: true,
+            },
         ];
     },
 };
