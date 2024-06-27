@@ -18,11 +18,6 @@ module.exports = {
                 permanent: true,
             },
             {
-                source: '/resend',
-                destination: 'https://resend-uploadthing-attachments.vercel.app/',
-                permanent: true,
-            },
-            {
                 source: '/suggest',
                 destination: 'https://suggest.gg/joshcirre',
                 permanent: true,
@@ -49,32 +44,22 @@ module.exports = {
             },
             {
                 source: '/live',
-                destination: 'https://twitch.tv/joshcirre',
-                permanent: true,
-            },
-            {
-                source: '/mongodb',
-                destination: 'https://drive.google.com/file/d/1_2hvII5NaYUkAw-PM4jsk1LaulvpICef/view?usp=sharing',
-                permanent: true,
-            },
-            {
-                source: '/hellomongodb',
-                destination: 'https://www.youtube.com/watch?v=1TDHwFkGRl8',
-                permanent: true,
-            },
-            {
-                source:'/highlight',
-                destination: 'https://drive.google.com/file/d/1ysi5dsCzY-GulBInde-ufhNxFF4zlQrp/view?usp=sharing',
-                permanent: true,
-            },
-            {
-                source: '/hellohighlight',
-                destination: 'https://www.youtube.com/watch?v=048GxlHPbjk',
+                destination: 'https://www.youtube.com/@joshcirre/live',
                 permanent: true,
             },
             {
                 source: '/bet',
                 destination: 'https://beton.joshcirre.com',
+                permanent: true,
+            },
+            {
+                source: '/podcast',
+                destination: 'https://lddpod.com',
+                permanent: true,
+            },
+            {
+                source: '/ldd',
+                destination: 'https://lddpod.com',
                 permanent: true,
             },
         ];
