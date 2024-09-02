@@ -62,6 +62,11 @@ module.exports = {
                 destination: 'https://lddpod.com',
                 permanent: true,
             },
+            {
+                source: '/stickers',
+                destination: 'https://joshcirre.com/stickers',
+                permanent: true,
+            },
         ];
     },
 };
