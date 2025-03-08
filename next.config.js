@@ -33,6 +33,21 @@ module.exports = {
                 permanent: true,
             },
             {
+                source: '/x',
+                destination: 'https://www.x.com/joshcirre',
+                permanent: true,
+            },
+            {
+                source: '/linkedin',
+                destination: 'https://www.linkedin.com/in/joshcirre',
+                permanent: true,
+            },
+            {
+                source: '/bsky',
+                destination: 'https://bsky.app/profile/joshcirre.com',
+                permanent: true,
+            },
+            {
                 source: '/jiffyforjobs',
                 destination: 'https://www.youtube.com/watch?v=HLXrOD7SAKE',
                 permanent: true,
