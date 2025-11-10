@@ -89,6 +89,11 @@ module.exports = {
           "https://www.youtube.com/watch?v=0ULVViBpW5o?utm_medium=expedited-reg-email&draft=7-23-1-add-password&utm_campaign=glb-26q3-glb-he-c1_sdmp-canvas_25_virtual_event&utm_source=partner-sourced&utm_medium=partner&utm_content=Hosted%20Event&utm_term=InfluencerJoshcirre&src=-partner_glb",
         permanent: true,
       },
+      {
+        source: "/miro",
+        destination: "https://miro.com/ai-canvas-waitlist/",
+        permanent: true,
+      },
     ];
   },
 };
