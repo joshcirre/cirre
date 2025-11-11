@@ -91,7 +91,7 @@ module.exports = {
       },
       {
         source: "/miro",
-        destination: "https://miro.com/ai-canvas-waitlist/",
+        destination: "http://miro.pxf.io/Xm7gEa",
         permanent: true,
       },
     ];
