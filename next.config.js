@@ -94,6 +94,11 @@ module.exports = {
         destination: "http://miro.pxf.io/Xm7gEa",
         permanent: true,
       },
+      {
+        source: "/blankcanvas",
+        destination: "http://miro.pxf.io/RGv6ay",
+        permanent: true,
+      },
     ];
   },
 };
